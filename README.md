@@ -1,5 +1,5 @@
 # NXT_Hackathon
-Certainly! Below is a detailed example of a `README.md` for your GitHub repository, specifically designed for the Universal Fashion Ontology and Feature Extraction System project:
+Below is a detailed example of a `README.md` for your GitHub repository, specifically designed for the Universal Fashion Ontology and Feature Extraction System project:
 
 ---
 
